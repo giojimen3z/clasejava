@@ -9,7 +9,6 @@ public class Main {
         Teacher yesica = new Teacher("2","Yessica","nomelose",20,"01/01/2000","nosemenos@nose.com","Unipanamericana","compensar","Software","ingenieria",3,subjectYessica,30);
         Teacher carlos = new Teacher("3","Carlos","nomelose",40,"01/01/1980","nosemenos@nose.com","Unipanamericana","compensar","Software","ingenieria",4,subjectCarlos,50);
 
-        gio.setLastName("jodase");
         System.out.println(gio.getName() +" "+ gio.getLastName());
         System.out.println(yesica.getName());
         System.out.println(carlos.getName());
